@@ -13,6 +13,7 @@
 ### Conflitos que podem vim a acontecer no dia a dia Dev ⚡
 
  *  Conflitos de codigo que ocorrem quando voce altera a mesma linha de codigo que outra pessoa
+ - [] $ git pull origin master "para atualizar o repositorio remoto para sua maquina" e so depois você faz suas alterações e empurra.
  
 
 
