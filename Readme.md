@@ -1,6 +1,6 @@
 ### Repositorio criado para pratica e estudo dos comandos e funcionalidades do git                                                      
 
-## Açoes execultadas 
+## Açoes execultadas 💻
  
 * Depois de configurar email e nick name no git 
 
@@ -9,5 +9,7 @@
  * - $ Git remote -v  para verificar a lista de repositorios remotos cadastrado
  * - $ git status para veririficar se esta tudo certo com nosso repositorio
  * - $ git push origin master / transferir alterações apra repositorio remoto
+
+## Conflitos que podem vim a acontecer no dia a dia Dev ⚡
 
 
