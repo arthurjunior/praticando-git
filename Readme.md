@@ -1,4 +1,4 @@
-## Repositorio criado para pratica e estudo dos comandos e funcionalidades do git                                                      
+## Repositorio criado para a pratica e estudo dos comandos e funcionalidades do Git ✌️👽                                                    
 
 ### Açoes executadas 💻
  
