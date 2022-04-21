@@ -1,7 +1,7 @@
 ## Repositorio criado para a pratica e estudo dos comandos e funcionalidades do Git ✌️👽      
 ### Link util para entender um pouco sobre markdonw .
 
- * [Sintaxe basica de markdow]    (http://www.markdwnguide.org/basic-syntax/)                                          
+ * [Sintaxe basica de markdow]    (https://www.markdownguide.org/basic-syntax/)                                          
 
 ### Açoes executadas 💻
  
