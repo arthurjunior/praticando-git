@@ -1,4 +1,7 @@
-## Repositorio criado para a pratica e estudo dos comandos e funcionalidades do Git ✌️👽                                                    
+## Repositorio criado para a pratica e estudo dos comandos e funcionalidades do Git ✌️👽      
+### Link util para entender um pouco sobre markdonw .
+
+ * [Sintaxe basica de markdow]    (http://www.markdwnguide.org/basic-syntax/)                                          
 
 ### Açoes executadas 💻
  
@@ -18,5 +21,7 @@
 ## Clonando repositorio remoto para sua maquina no ambiente de trabalho
  * pode ser clonado via download .zip ou pode ser clonado via terminal 
  - $ git clone "url do repositorio"
+
+
 
 
